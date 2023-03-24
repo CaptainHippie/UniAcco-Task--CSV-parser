@@ -2,15 +2,12 @@
  
  ## Prerequisites:
  1. Python 3.6 or higher installed
- 2. Linux or Mac operating system because python virtual environment works differently in windows
+
  ## How to run:
-1. Open a terminal inside the directory
-2. activate virtual environment by the command '$ source venv/bin/activate'
-if you see a (venv) symbol in the command prompt, it means it's activated
+1. install pandas library using the command 'pip install pandas' inside the terminal
+2. Open a terminal inside the directory
 3. Run the program using the command '$ python3 main.py'
 The rest is guided by command prompts
-
-If you have a windows operating system, you can still run the application. Skip the virtual environment activation and install pandas module by 'pip install pandas' manually.
 
 Support is added for multiple CSV files, just drop them inside the 'datasets' folder
 Modules used:
