@@ -11,8 +11,10 @@
 The rest is guided by command prompts
 
 Support is added for multiple CSV files, just drop them inside the 'datasets' folder
+
 Modules used:
 csv, pandas, argparse(deprecated)
 
-I couldn't find any use for argparse at the moment, but will try to add if the need arises
+argparse is depracated because I couldn't find any use for it at the moment, but will try to add if the need arises.
+
 More complex operations using pandas will be added soon
