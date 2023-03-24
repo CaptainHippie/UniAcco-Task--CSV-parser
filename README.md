@@ -7,6 +7,7 @@
 1. install pandas library using the command 'pip install pandas' inside the terminal
 2. Open a terminal inside the directory
 3. Run the program using the command '$ python3 main.py'
+
 The rest is guided by command prompts
 
 Support is added for multiple CSV files, just drop them inside the 'datasets' folder
